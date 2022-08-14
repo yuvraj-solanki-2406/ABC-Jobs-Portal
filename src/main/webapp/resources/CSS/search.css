@@ -1,0 +1,23 @@
+#label{
+	text-align: center;
+}
+#head{
+	text-align: center;
+}
+#heading{
+	color: #002f65d9;
+    text-align: center;
+    font-family: verdana, georgia;
+    margin-left: 3px;
+}
+#line{
+	width: 82px;
+    border: 3px solid #002f65;
+    margin-top: 1px;
+    size: a3;
+}
+#search_btn
+{
+margin-left:auto;
+margin-right:auto;	
+}
